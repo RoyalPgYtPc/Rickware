@@ -1,2 +1,5 @@
-# Rickware
-Rickware © 2025 by RoyalPgYtPc is licensed under CC BY-NC-SA 4.0
+MIT License
+
+Copyright (c) 2025 RoyalPgYtPc
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
